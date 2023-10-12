@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\problemlsolving-ericR\bin\Debug\net7.0\problemlsolving-ericR.exe
+C:\Users\Admin\Documents\GitHub\problemlsolving-ericR\bin\Debug\net7.0\problemlsolving-ericR.deps.json
+C:\Users\Admin\Documents\GitHub\problemlsolving-ericR\bin\Debug\net7.0\problemlsolving-ericR.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\problemlsolving-ericR\bin\Debug\net7.0\problemlsolving-ericR.dll
+C:\Users\Admin\Documents\GitHub\problemlsolving-ericR\bin\Debug\net7.0\problemlsolving-ericR.pdb
+C:\Users\Admin\Documents\GitHub\problemlsolving-ericR\obj\Debug\net7.0\problemlsolving-ericR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\problemlsolving-ericR\obj\Debug\net7.0\problemlsolving-ericR.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\problemlsolving-ericR\obj\Debug\net7.0\problemlsolving-ericR.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\problemlsolving-ericR\obj\Debug\net7.0\problemlsolving-ericR.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\problemlsolving-ericR\obj\Debug\net7.0\problemlsolving-ericR.dll
+C:\Users\Admin\Documents\GitHub\problemlsolving-ericR\obj\Debug\net7.0\refint\problemlsolving-ericR.dll
+C:\Users\Admin\Documents\GitHub\problemlsolving-ericR\obj\Debug\net7.0\problemlsolving-ericR.pdb
+C:\Users\Admin\Documents\GitHub\problemlsolving-ericR\obj\Debug\net7.0\problemlsolving-ericR.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\problemlsolving-ericR\obj\Debug\net7.0\ref\problemlsolving-ericR.dll
